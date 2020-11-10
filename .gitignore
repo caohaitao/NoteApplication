@@ -1,0 +1,9 @@
+/.vs
+/Debug
+/ipch
+/x64
+/*.db
+/*.opendb
+/NoteApplication/Debug
+/NoteApplication/x64
+/DllTest/x64
