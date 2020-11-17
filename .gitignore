@@ -7,3 +7,8 @@
 /NoteApplication/Debug
 /NoteApplication/x64
 /DllTest/x64
+/LoadLibTest/x64
+/LoadDllTest/x64
+/ProfilerTest
+*.psess
+/LibTest/x64
